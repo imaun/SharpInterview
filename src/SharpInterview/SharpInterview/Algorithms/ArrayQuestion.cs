@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SharpInterview.Algorithms {
+﻿namespace SharpInterview.Algorithms {
     public static class ArrayQuestion {
         public static double Average(params int[] input) {
             if (input == null || input.Length == 0)
